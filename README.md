@@ -1,4 +1,5 @@
 # xiaomi_debloat_list_miui12
+Let's see how we can remove these two particular things from Xiaomi
 
 1 Xiaomi [ADB Debloat] miui 12 bloatware which can be removed.
 
